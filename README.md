@@ -1,10 +1,10 @@
-# 🏎️ DriveEase | Premium Vehicle Rentals
+#  DriveEase | Premium Vehicle Rentals
 
 DriveEase is a state-of-the-art vehicle rental platform designed with a high-performance, industrial aesthetic. Engineered for reliability and built with modern technologies, it provides a seamless experience for customers to browse a premium fleet and manage their bookings.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Premium Fleet Catalog**: Dynamically categorized vehicles including Sedans, SUVs, Performance cars, and Motorcycles.
 - **Smart Booking System**: Real-time availability checking and automated rental duration calculations.
@@ -15,7 +15,7 @@ DriveEase is a state-of-the-art vehicle rental platform designed with a high-per
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### **Backend**
 - **Framework**: Spring Boot 3.2+
@@ -32,7 +32,7 @@ DriveEase is a state-of-the-art vehicle rental platform designed with a high-per
 
 ---
 
-## 🏁 Getting Started
+##  Getting Started
 
 ### **Prerequisites**
 - **Java 17+**
@@ -64,14 +64,14 @@ npm run dev
 
 ---
 
-## 🔐 Default Admin Credentials
+##  Default Admin Credentials
 For testing and management:
 - **Email**: `admin@driveease.com`
 - **Password**: `Admin@1234`
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 ├── backend/            # Spring Boot API
@@ -85,9 +85,9 @@ For testing and management:
 
 ---
 
-## 📝 License
+##  License
 This project is developed for educational and professional demonstration purposes.
-
 ---
 
+*Developed by Subodha Wijesekara*
 *Engineered with precision. Driven by passion.*
